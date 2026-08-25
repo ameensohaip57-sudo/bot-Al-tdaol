@@ -55,8 +55,9 @@
         "secret": "E66W5gyp9HeNNgMhvYDDK4UyV7SBFHG2bDHd",
         "demo_trading": true,
 
-        "ccxt_config": {},
-
+    "ccxt_config": {
+     "httpsProxy": "http://51.75.118.17:20032"
+     },
         "ccxt_async_config": {},
 
         "pair_whitelist": [
