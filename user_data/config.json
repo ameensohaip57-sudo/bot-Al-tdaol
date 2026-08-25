@@ -48,11 +48,11 @@
     },
 
     "exchange": {
-    "name": "binance",
-        "key": "04riShi5MSmldPPhj0RLMXEBmpcjRrqvV0YHxVF66fENySwoYmbLBYLP1JhNtn96",
+    "name": "bybit",
 
-        "secret": "NCY2g0J2y1PRNz8eE142uqt7U6YpvdgM15HQRhgRE077TBAlR3RAOz7fsg2802Z3",
+        "key": "Yw3YT52zeFT31ynaCZ",
 
+        "secret": "E66W5gyp9HeNNgMhvYDDK4UyV7SBFHG2bDHd",
         "demo_trading": true,
 
         "ccxt_config": {},
