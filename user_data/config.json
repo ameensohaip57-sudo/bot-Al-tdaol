@@ -48,8 +48,7 @@
     },
 
     "exchange": {
-        "name": "Binance",
-
+        "name": "Binance"
         "key": "04riShi5MSmldPPhj0RLMXEBmpcjRrqvV0YHxVF66fENySwoYmbLBYLP1JhNtn96",
 
         "secret": "NCY2g0J2y1PRNz8eE142uqt7U6YpvdgM15HQRhgRE077TBAlR3RAOz7fsg2802Z3",
